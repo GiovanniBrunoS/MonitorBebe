@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eventos_array">
+        <item>Acordou</item>
+        <item>Dormiu</item>
+        <item>Mamou</item>
+        <item>Trocou</item>
+    </string-array>
+</resources>
